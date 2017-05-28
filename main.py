@@ -1,1 +1,4 @@
-this is the test project for github on ubuntu.
+def main(msg):
+    print(msg)
+
+main("Hello People")
